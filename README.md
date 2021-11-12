@@ -27,8 +27,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<p>I am a full-stack developer having more than 8 years of experience in building web and mobile applications.</p><br/> 
-<p>I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed.<p><br/> 
+<p>I am a full-stack developer having more than 8 years of experience in building web and mobile applications.</p>
+<p>I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed.<p>
 <p>I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.</p><br/>
 
 

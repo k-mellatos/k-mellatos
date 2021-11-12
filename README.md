@@ -31,6 +31,14 @@
 <p>I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed.<p><br/> 
 <p>I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.</p><br/>
 
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Tracing user interactions with React](https://karolos-mellatos.web.app/blog-single.html)
+- [Eliminate an entire category of bugs with a few simple tools](https://karolos-mellatos.web.app/blog-single2.html)
+- [React Production Performance Monitoring](https://karolos-mellatos.web.app/blog-single3.html)
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-karolos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-mellatos)](https://www.linkedin.com/in/k-mellatos) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://karolos-mellatos.web.app)](https://karolos-mellatos.web.app)

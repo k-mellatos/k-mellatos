@@ -34,9 +34,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Tracing user interactions with React](https://karolos-mellatos.web.app/blog-single.html)
-- [Eliminate an entire category of bugs with a few simple tools](https://karolos-mellatos.web.app/blog-single2.html)
-- [React Production Performance Monitoring](https://karolos-mellatos.web.app/blog-single3.html)
+- [React user information and how to keep an eye on it](https://karolos-mellatos.web.app/blog-1.html)
+- [Bugs eliminations in the easiest way](https://karolos-mellatos.web.app/blog-2.html)
+- [React Pc consuption under your control](https://karolos-mellatos.web.app/blog-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">:heart: Let's get connected:</h2>

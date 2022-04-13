@@ -37,17 +37,17 @@ I believe learning is a lifelong process, and I love learning new things and tak
 
 <strong>⌾ Program Languages</strong><br>
 - JavaScript/TypeScript, PHP, Python<br>
-**⌾ Front-end Frameworks**<br>
+<strong>⌾ Front-end Frameworks</strong><br>
 - React, Vue, Electron, Flutter Web<br>
-**⌾ Back-end Frameworks**<br>
+<strong>⌾ Back-end Frameworks</strong><br>
 - Node.js, Express, Nest.js, .Net, Laravel, Django<br>
-**⌾ Mobile app Frameworks**<br>
+<strong>⌾ Mobile app Frameworks</strong><br>
 - React Native, Flutter<br>
-**⌾ Cloud Services**<br>
+<strong>⌾ Cloud Services</strong><br>
 - AWS Amplify, AWS Lambda, Amazon DynamoDB, S3, AWS Cognito, EC2, Cloud Firestore, Firebase Realtime database, Firebase gateway<br>
-**⌾ DevOps**<br>
+<strong>⌾ DevOps</strong><br>
 - Github, Gitlab, Bitbucket, Docker, CI/CD, Webpack, Jest, Mocha, Agile, Scrum, Kanban, Waterfall, TDD, SOLID, DRY<br>
-**⌾ Engineering & Technology**<br>
+<strong>⌾ Engineering & Technology</strong><br>
 - Software Engineering, Reverse Engineering, Artificial Intelligence<br>
 
 

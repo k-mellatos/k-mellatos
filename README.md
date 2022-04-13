@@ -33,7 +33,7 @@ I am looking forward to joining an innovative, dynamic company where I can utili
 Web Development professional with several years of experience, passionate about helping brands grow by solving problems and delivering value.<br><br> 
 
 In-depth knowledge in many different Front-End and Back-End languages, frameworks and best coding practices. 
-I believe learning is a lifelong process, and I love learning new things and taking on challenges and pushing myself.<br><br>
+I believe learning is a lifelong process, and I love learning new things and taking on challenges and pushing myself.</p><br><br>
 
 **⌾ Program Languages**<br>
 - JavaScript/TypeScript, PHP, Python<br>
@@ -48,7 +48,7 @@ I believe learning is a lifelong process, and I love learning new things and tak
 **⌾ DevOps**<br>
 - Github, Gitlab, Bitbucket, Docker, CI/CD, Webpack, Jest, Mocha, Agile, Scrum, Kanban, Waterfall, TDD, SOLID, DRY<br>
 **⌾ Engineering & Technology**<br>
-- Software Engineering, Reverse Engineering, Artificial Intelligence</p><br>
+- Software Engineering, Reverse Engineering, Artificial Intelligence<br>
 
 
 📕 &nbsp;**Latest Blog Posts**

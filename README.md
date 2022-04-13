@@ -35,6 +35,8 @@ Web Development professional with several years of experience, passionate about 
 In-depth knowledge in many different Front-End and Back-End languages, frameworks and best coding practices. 
 I believe learning is a lifelong process, and I love learning new things and taking on challenges and pushing myself.
 
+<h2 align="left">Tech Description:</h2>
+
 **⌾ Program Languages**<br>
 - JavaScript/TypeScript, PHP, Python<br>
 **⌾ Front-end Frameworks**<br>

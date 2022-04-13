@@ -35,20 +35,20 @@ Web Development professional with several years of experience, passionate about 
 In-depth knowledge in many different Front-End and Back-End languages, frameworks and best coding practices. 
 I believe learning is a lifelong process, and I love learning new things and taking on challenges and pushing myself.</p><br>
 
-<strong>⌾ Program Languages</strong><br>
-- JavaScript/TypeScript, PHP, Python<br>
-<strong>⌾ Front-end Frameworks</strong><br>
-- React, Vue, Electron, Flutter Web<br>
-<strong>⌾ Back-end Frameworks</strong><br>
-- Node.js, Express, Nest.js, .Net, Laravel, Django<br>
-<strong>⌾ Mobile app Frameworks</strong><br>
-- React Native, Flutter<br>
-<strong>⌾ Cloud Services</strong><br>
-- AWS Amplify, AWS Lambda, Amazon DynamoDB, S3, AWS Cognito, EC2, Cloud Firestore, Firebase Realtime database, Firebase gateway<br>
-<strong>⌾ DevOps</strong><br>
-- Github, Gitlab, Bitbucket, Docker, CI/CD, Webpack, Jest, Mocha, Agile, Scrum, Kanban, Waterfall, TDD, SOLID, DRY<br>
-<strong>⌾ Engineering & Technology</strong><br>
-- Software Engineering, Reverse Engineering, Artificial Intelligence<br>
+**⌾ Program Languages**
+- JavaScript/TypeScript, PHP, Python
+**⌾ Front-end Frameworks**
+- React, Vue, Electron, Flutter Web
+**⌾ Back-end Frameworks**
+- Node.js, Express, Nest.js, .Net, Laravel, Django
+**⌾ Mobile app Frameworks**
+- React Native, Flutter
+**⌾ Cloud Services**
+- AWS Amplify, AWS Lambda, Amazon DynamoDB, S3, AWS Cognito, EC2, Cloud Firestore, Firebase Realtime database, Firebase gateway
+**⌾ DevOps**
+- Github, Gitlab, Bitbucket, Docker, CI/CD, Webpack, Jest, Mocha, Agile, Scrum, Kanban, Waterfall, TDD, SOLID, DRY
+**⌾ Engineering & Technology**
+- Software Engineering, Reverse Engineering, Artificial Intelligence
 
 
 📕 &nbsp;**Latest Blog Posts**

@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Karolos Mellatos, Web and Mobile Developer :computer:<br>
+  <br> I'm Karolos Mellatos, Full Stack Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -27,9 +27,28 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<p>I am a full-stack developer having more than 8 years of experience in building web and mobile applications.</p>
-<p>I'm a full stack, polyglot developer who is constantly learning how to make web/hybrid apps faster, leaner, and perfectly designed.<p>
-<p>I have worked on +30 CMS, CRM, Mobile, Analysis, Blockchain, eCommerce sites so far.</p><br/>
+<p>I am a Full-Stack Software Engineer with a background in Control Systems Engineering who is passionate about creating user-friendly applications by writing clean, efficient, and maintainable code. 
+I am looking forward to joining an innovative, dynamic company where I can utilize my strong problem solving and collaborative skills to build meaningful and impactful products.<br><br>
+
+Web Development professional with several years of experience, passionate about helping brands grow by solving problems and delivering value.<br><br> 
+
+In-depth knowledge in many different Front-End and Back-End languages, frameworks and best coding practices. 
+I believe learning is a lifelong process, and I love learning new things and taking on challenges and pushing myself.<br><br>
+
+**⌾ Program Languages**<br>
+- JavaScript/TypeScript, PHP, Python<br>
+**⌾ Front-end Frameworks**<br>
+- React, Vue, Electron, Flutter Web<br>
+**⌾ Back-end Frameworks**<br>
+- Node.js, Express, Nest.js, .Net, Laravel, Django<br>
+**⌾ Mobile app Frameworks**<br>
+- React Native, Flutter<br>
+**⌾ Cloud Services**<br>
+- AWS Amplify, AWS Lambda, Amazon DynamoDB, S3, AWS Cognito, EC2, Cloud Firestore, Firebase Realtime database, Firebase gateway<br>
+**⌾ DevOps**<br>
+- Github, Gitlab, Bitbucket, Docker, CI/CD, Webpack, Jest, Mocha, Agile, Scrum, Kanban, Waterfall, TDD, SOLID, DRY<br>
+**⌾ Engineering & Technology**<br>
+- Software Engineering, Reverse Engineering, Artificial Intelligence</p><br>
 
 
 📕 &nbsp;**Latest Blog Posts**
